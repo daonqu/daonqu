@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daonqu
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning html, css, php
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me daonq@gmail.com
 
