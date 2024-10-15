@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @daonqu
+- 🆔 Chainlink Enthusiast & Advocate ⬢⬡
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html, css, php
 - 💞️ I’m looking to collaborate on coding
